@@ -51,7 +51,7 @@ Agradecemos las contribuciones de la comunidad para mejorar y enriquecer Artes A
 
 ## Licencia
 
-Este proyecto está bajo la licencia [GNU General Public License version 2.0 (GPLv2)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html). Consulta el archivo [LICENSE](LICENSE) para más detalles.
+Este proyecto está bajo la licencia [GNU General Public License version 2.0 (GPLv2)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html).
 
 ## Agradecimientos
 
