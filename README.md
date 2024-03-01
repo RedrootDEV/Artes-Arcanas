@@ -31,7 +31,7 @@ El juego está desarrollado en Delphi 6 y presenta un entorno 2D con vista isom�
 
 - **Lenguaje**: Delphi 6
 - **Entorno**: Isométrico 2D
-- **Editores**: Incluye editores de personajes, mapas y objetos.
+- **Editores**: Incluye editores de personajes, mapas, objetos, etc...
 
 ## Contribuidores
 
