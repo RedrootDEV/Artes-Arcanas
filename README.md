@@ -36,7 +36,7 @@ El juego est√° desarrollado en Delphi 6 y presenta un entorno 2D con vista isom√
 ## Contribuidores
 
 - **Sergio A. Chavez**: Creador
-- **Pablo M. Duval**: Mapper (15-32) y actual mantenedor: Pablo M. Duval
+- **Pablo M. Duval**: Mapeador (15-32) y actual mantenedor
 
 ## Empezar
 
